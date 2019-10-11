@@ -15,26 +15,26 @@
 	
 ### File Information
 	A short discription of the various files that are present in the repository is as follows:
-	#### Airplane_model.py
+	Airplane_model.py:
 		Contains the trained model that is used to compress images of type 'Airplane'
-	#### Automobile_model.py
+	Automobile_model.py:
 		Contains the trained model that is used to compress images of type 'Automobile'
-	#### Flower_model.py
+	Flower_model.py:
 		Contains the trained model that is used to compress images of type 'Flower'
-	#### compare_images.py
+	compare_images.py:
 		This file contains code to compare the original and compressed images
-	#### compress.py
+	compress.py:
 		This file integrates all the three models and compresses images based on the image type
-	#### convert_images.py
+	convert_images.py:
 		This file contains code that was used to convert the high resolution images in the Flower dataset to lower resolution so that it can be used to train the model (training on high resolution images was not computationally feasible)
-	#### data_extract.py
+	data_extract.py:
 		This file contains code to convert the images in the datasets into arrays that is then used totrain the model
-	#### stride.ai_project_proposal.pdf
+	stride.ai_project_proposal.pdf:
 		This file contains the initial proposal for this project
-	#### team18_presentation.pdf
+	team18_presentation.pdf:
 		This file contains a short presentation on the project
-	#### team18_report.pdf
-		This file contains the pproject report
+	team18_report.pdf:
+		This file contains the project report
 
 ### Link to Project Resources (Google Drive):
 The following link contains the dats-sets used and saved models.
